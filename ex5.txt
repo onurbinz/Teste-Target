@@ -1,0 +1,6 @@
+Ligo os interruptores 1 e 2 e deixo eles ligados por um tempo até as lampadas aquecerem, quando aquecidas, desligo o interruptore 2 e entro em uma das salas.
+A sala em que a lampada estiver ligada corresponde ao interruptor 1.
+A sala em que a lampada estiver desligada porem quente corresponde ao interruptor 2.
+A sala em que a lampada estiver desligada e fria corresponde ao interruptor 3.
+Sabendo qual o interruptor correspondente a sala que fui, me restam dois interruptores, então deixo um ligado e um desligado e entro em uma das salas restantes.
+Assim consigo determinar qual interruptor corresponde a cada sala.

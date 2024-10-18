@@ -1,0 +1,6 @@
+a- 9 (Uma progressão aritmetica de razão 2)
+b- 128 (Uma progressão geometrica de razão 2)
+c- 49 (Uma sequência de numeros 1,2,3,4... ao quadrado)
+d- 100 (Uma sequência de numeros pares não nulos 2,4,6,8... ao quadrado)
+e- 13 (Sequência de Fibonacci)
+f- 200 (Sequência dos numeros que começam com a letra 'D')
